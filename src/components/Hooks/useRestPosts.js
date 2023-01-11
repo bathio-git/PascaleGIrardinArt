@@ -1,4 +1,4 @@
-/* import { graphql, useStaticQuery } from "gatsby";
+import { graphql, useStaticQuery } from "gatsby";
 
 const useRestPosts = () => {
     const data = useStaticQuery(graphql`
@@ -25,4 +25,4 @@ const useRestPosts = () => {
     `);
     return data.allRestPosts.edges
 }
-export default useRestPosts; */
+export default useRestPosts;
