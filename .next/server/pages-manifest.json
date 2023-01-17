@@ -1,15 +1,6 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/404": "pages/404.html",
-  "/api/hello": "pages/api/hello.js",
-  "/": "pages/index.js",
-  "/expositions/[pid]": "pages/expositions/[pid].js",
-  "/expositions": "pages/expositions.js",
-  "/news": "pages/news.js",
-  "/news/[pid]": "pages/news/[pid].js",
-  "/projects": "pages/projects.js",
-  "/page/[pid]": "pages/page/[pid].js",
-  "/projects/[pid]": "pages/projects/[pid].js",
-  "/_document": "pages/_document.js"
+  "/_document": "pages/_document.js",
+  "/news/[pid]": "pages/news/[pid].js"
 }
